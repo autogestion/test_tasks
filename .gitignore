@@ -12,3 +12,11 @@ Cargo.lock
 # Key folders
 neardev
 .neardev
+
+
+
+
+
+
+*.pyc
+__pycache__
